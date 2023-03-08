@@ -1,0 +1,21 @@
+.work-section {
+	max-width: 100%;
+	height: auto;
+	position: relative;
+	background-color: white;
+	padding-top: 50px !important;
+}
+
+.work-description{
+	background-color: rgb(203, 58, 36);
+	color: white !important;
+	font-weight: bolder;
+	text-align: center;
+}
+
+
+.work-body {
+	padding-top: 50px;
+	font-size: 1.2em !important;
+	text-align: left;
+}

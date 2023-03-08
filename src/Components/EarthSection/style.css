@@ -1,0 +1,30 @@
+.earth-section {
+	max-width: 100%;
+	height: auto;
+	position: relative;
+	background-color: white;
+	
+}
+
+.img-fluid{
+	max-width: 100%;
+	height: auto;
+}
+
+.earth-align {
+	justify-content: center !important;
+}
+
+.earth-description {
+	color: black !important;
+	/* padding-top: 20px; */
+	padding-bottom: 20px !important;
+	text-align: center;
+	
+}
+
+.earth-body {
+	padding-top: 20px;
+	font-size: 1.2em !important;
+	text-align: left;
+}

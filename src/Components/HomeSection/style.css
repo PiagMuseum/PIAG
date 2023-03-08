@@ -1,0 +1,37 @@
+.home-header {
+    padding-top: 80px !important;
+}
+
+.home-section {
+	background-image:  linear-gradient(
+		rgba(0, 0, 0, 0.5),
+		rgba(0, 0, 0, 0.5)
+	  ),url(../../Assets/gallery.jpg);
+	position: relative;
+	z-index: -1;
+	background-color: #010001;
+	background-position: top center;
+	max-width: 100%;
+	height: auto;
+    background-size:cover;  
+    background-repeat: no-repeat;
+	padding-bottom: 10px!important;
+	padding-top: 30px !important;
+}
+
+.home-content {
+	padding: 9rem 0 2rem !important;
+	color: white;
+	text-align: left;
+}
+
+.home-heading {
+	font-size: 2.4em !important;
+	padding-left: 50px !important;
+}
+
+.home-body {
+	padding-top: 50px;
+	font-size: 1.2em !important;
+	text-align: left;
+}

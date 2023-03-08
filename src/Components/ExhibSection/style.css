@@ -1,0 +1,26 @@
+.exhib-section {
+	max-width: 100%;
+	height: auto;
+background-size: contain;  
+background-repeat: no-repeat;
+	position: relative;
+	background-color: white;
+	padding-bottom: 70px !important;
+	padding-top: 70px !important;
+}
+
+.exhib-description{
+	background-color: rgb(203, 58, 36);
+	color: white !important;
+	font-weight: bolder;
+	padding-bottom: 20px !important;
+	text-align: center;
+	
+}
+
+
+.exhib-body {
+	padding-top: 50px;
+	font-size: 1.2em !important;
+	text-align: left;
+}

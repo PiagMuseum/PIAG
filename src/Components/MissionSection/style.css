@@ -1,0 +1,14 @@
+.mission-section {
+	max-width: 100%;
+	height: auto;
+	background-color: white;
+}
+
+.mission-align {
+	justify-content: center !important;
+	padding-top: 20px !important;
+}
+
+.red {
+	color: rgb(203, 58, 36) !important;
+}

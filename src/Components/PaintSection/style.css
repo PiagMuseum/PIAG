@@ -1,0 +1,27 @@
+.paint-section {
+	max-width: 100%;
+	height: auto;
+	position: relative;
+	background-color: white;
+	padding-top: 40px !important; 
+}
+
+.img-fluid{
+	max-width: 100%;
+	height: auto;
+}
+
+.paint-align {
+	justify-content: center !important;
+}
+
+.paint-description {
+	color: black !important;
+	text-align: center;
+}
+
+.paint-body {
+	padding-top: 50px;
+	font-size: 1.2em !important;
+	text-align: left;
+}

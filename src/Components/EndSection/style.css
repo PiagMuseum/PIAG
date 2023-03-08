@@ -1,0 +1,29 @@
+.end-section {
+	max-width: 100%;
+	height: auto;
+    background-size: contain;  
+    background-repeat: no-repeat;
+	position: relative;
+	background-color: white;
+	padding-bottom: 70px !important;
+	padding-top: 70px !important;
+}
+
+.end-description{
+	background-color: rgb(203, 58, 36);
+	color: white !important;
+	font-weight: bolder;
+	padding-bottom: 20px !important;
+	text-align: center;
+	
+}
+
+.img-fluid{
+	max-width: 100%;
+	height: auto;
+}
+
+.end-align {
+	justify-content: center !important;
+	padding-top: 9em !important;
+}

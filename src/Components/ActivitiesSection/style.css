@@ -1,0 +1,16 @@
+.red {
+	color: rgb(203, 58, 36) !important;
+}
+
+.activities-section {
+	max-width: 100%;
+	height: auto;
+	position: relative;
+	background-color: white;
+	}
+
+.activities-align {
+	justify-content: center !important;
+	padding-top: 20px !important;
+}
+

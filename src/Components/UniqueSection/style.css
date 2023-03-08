@@ -1,0 +1,28 @@
+.red {
+	color: rgb(203, 58, 36) !important;
+}
+
+.unique-section {
+	max-width: 100%;
+	height: auto;
+    background-size: contain;  
+    background-repeat: no-repeat;
+	position: relative;
+	background-color: white;
+	padding-bottom: 70px !important;
+	padding-top: 70px !important;
+}
+
+.unique-description {
+	color: black !important;
+	padding-top: 20px;
+	padding-bottom: 20px !important;
+	text-align: center;
+	
+}
+
+.unique-body {
+	padding-top: 50px;
+	font-size: 1.2em !important;
+	text-align: left;
+}

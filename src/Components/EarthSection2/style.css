@@ -1,0 +1,73 @@
+.earth-section2 {
+	background-image:  linear-gradient(
+		rgba(0, 0, 0, 0.5),
+		rgba(0, 0, 0, 0.5)
+	  ),url(../../Assets/\ cubesMain.jpg);
+	position: relative;
+	z-index: -1;
+	background-color: #010001;
+	background-position: top center;
+	max-width: 100%;
+	height: auto;
+    background-size:cover;  
+    background-repeat: no-repeat;
+	padding-bottom: 30px !important;
+	padding-top: 30px !important;
+}
+
+.earth-content2 {
+	padding: 9rem 0 2rem !important;
+	color: white;
+	text-align: left;
+	
+}
+
+.earth-header2 {
+    padding-top: 80px !important;
+}
+
+.earth-heading2 {
+	font-size: 2.4em !important;
+	padding-left: 50px !important;
+}
+
+.earth-body2 {
+	padding-top: 50px;
+	font-size: 1.2em !important;
+	text-align: left;
+}
+
+.earth-section3 {
+	max-width: 100%;
+	height: auto;
+    background-size: contain;  
+    background-repeat: no-repeat;
+	position: relative;
+	background-color: white;
+	padding-bottom: 70px !important;
+	padding-top: 70px !important;
+}
+
+.img-fluid{
+	max-width: 100%;
+	height: auto;
+}
+
+.earth-align {
+	justify-content: center !important;
+	padding-top: 9em !important;
+}
+
+.earth-description2 {
+	color: black !important;
+	padding-top: 20px;
+	padding-bottom: 20px !important;
+	text-align: center;
+	
+}
+
+.earth-body2 {
+	padding-top: 50px;
+	font-size: 1.2em !important;
+	text-align: left;
+}
