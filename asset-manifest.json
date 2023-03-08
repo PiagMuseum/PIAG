@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e19b7918.css",
+    "main.js": "/static/js/main.3c21c24b.js",
+    "static/media/cube1.jpg": "/static/media/cube1.f5e654d17c28bc2b4971.jpg",
+    "static/media/cube8.jpg": "/static/media/cube8.9de29005b0fbec108349.jpg",
+    "static/media/cube9.jpg": "/static/media/cube9.176640f4808184f399b5.jpg",
+    "static/media/gallery.jpg": "/static/media/gallery.e4a01acb6ca0983f9ca9.jpg",
+    "static/media/work1.JPG": "/static/media/work1.2d1089fde461e95aadfd.JPG",
+    "static/media/work4.JPG": "/static/media/work4.dbbc2d8e345ddc9434aa.JPG",
+    "static/media/ cubesMain.jpg": "/static/media/ cubesMain.812007c0d5615e2ea4ae.jpg",
+    "static/media/paintpot4.JPG": "/static/media/paintpot4.8e0175bd509b40f42904.JPG",
+    "static/media/work2.JPG": "/static/media/work2.f5748101946e9233e8d1.JPG",
+    "static/media/paintpot1.JPG": "/static/media/paintpot1.7d37da9ad0e922f5d3cd.JPG",
+    "static/media/Piantpot3.JPG": "/static/media/Piantpot3.ea2bb14983df7eaac54d.JPG",
+    "static/media/paintpot2.JPG": "/static/media/paintpot2.5ead9b3a20a8fd1cd63e.JPG",
+    "static/media/cube7.jpg": "/static/media/cube7.2231eb35298ef0a5da8d.jpg",
+    "static/media/work3.jpg": "/static/media/work3.bdd64f3a8c17aaf78785.jpg",
+    "static/media/disney.jpg": "/static/media/disney.0ae285aaf34920408bf2.jpg",
+    "static/media/cube3.JPG": "/static/media/cube3.eb049a5f343a409b63dd.JPG",
+    "static/media/cube6.JPG": "/static/media/cube6.24a4eb1de61bf94d06e5.JPG",
+    "static/media/cube4.JPG": "/static/media/cube4.3401ed4e86e2da5b43d4.JPG",
+    "static/media/cube13.JPG": "/static/media/cube13.c633ef58a036b8b447b4.JPG",
+    "static/media/proclaim.jpg": "/static/media/proclaim.d963b5f5db9c194cefe3.jpg",
+    "static/media/cube11.jpg": "/static/media/cube11.0f9608d6ac595ac6442d.jpg",
+    "static/media/cube5.jpg": "/static/media/cube5.de798fb785f01a014c62.jpg",
+    "static/media/cube12.jpg": "/static/media/cube12.114ddee734d05feddf0b.jpg",
+    "static/media/cube10.jpg": "/static/media/cube10.34fc3156d4e34cf6b452.jpg",
+    "static/media/cube2.JPG": "/static/media/cube2.27dfcce8aff79ed3761f.JPG",
+    "static/media/exhibit1.jpg": "/static/media/exhibit1.85c1658b483bee4ae27e.jpg",
+    "static/media/landscape.webp": "/static/media/landscape.411146787384ef03fe52.webp",
+    "static/media/director.jpg": "/static/media/director.0ab2d4310f392e0c51c7.jpg",
+    "static/media/logo1.png": "/static/media/logo1.96ced9d6b388973d4137.png",
+    "index.html": "/index.html",
+    "main.e19b7918.css.map": "/static/css/main.e19b7918.css.map",
+    "main.3c21c24b.js.map": "/static/js/main.3c21c24b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e19b7918.css",
+    "static/js/main.3c21c24b.js"
+  ]
+}
