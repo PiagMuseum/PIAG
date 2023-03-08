@@ -10,7 +10,7 @@ const Support = () => {
           <Row>
             <Col md={12} className="dir-header">
               <h1 style={{ paddingBottom: 15 }} className="dir-heading">
-                Our Supporters
+                Service Endorsements
               </h1>
               <h3>
                 We have letters of supports from many Miami Dade Schools. These
