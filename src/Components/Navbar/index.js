@@ -49,7 +49,7 @@ const Navigation = () => {
                 to="/support"
                 onClick={() => updateExpanded(false)}
               >
-                <MdOutlineContactMail style={{ marginBottom: "2px" }} /> Our Supporters
+                <MdOutlineContactMail style={{ marginBottom: "2px" }} /> Service Endorsements
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
