@@ -34,10 +34,8 @@ background-repeat: no-repeat;
 }
 
 .dir-section2 {
-	max-width: 100%;
 	height: auto;
-background-size: contain;  
-background-repeat: no-repeat;
+
 	position: relative;
 	background-color: white;
 	padding-bottom: 70px !important;

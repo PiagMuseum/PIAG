@@ -19,8 +19,9 @@ const Director = () => {
         </Container>
       </Container>
       <Container fluid className="dir-section2">
+        <Container>
         <h1>Director Mireya Perez-Power</h1>
-        <Image src={Dir} />
+        <Image className="img-fluid" src={Dir} />
 
         <p className="dir-body">
           Born in Caracas, Venezuela and since very young was interested in the
@@ -75,6 +76,7 @@ const Director = () => {
           many people with the Museum art projects , exhibitions and art
           workshops.
         </p>
+        </Container>
       </Container>
     </section>
   );
