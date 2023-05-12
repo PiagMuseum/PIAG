@@ -19,7 +19,7 @@ const photos = [
   },
   
   {
-    src: '/images/piantpot3.JPG',
+    src: '/images/piantpot4.JPG',
     rows: 1,
     cols: 2,
   },
