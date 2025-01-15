@@ -20,6 +20,17 @@ return(
                   everyone. Come discover the beauty of painting, sculpture,
                   photography, and more at PIAG Museum!
                 </p>
+                <video
+        width="600"
+        height="400"
+        controls
+        autoPlay
+        loop
+        muted
+        style={{ border: "1px solid #ccc", borderRadius: "8px" }}
+      >
+        <source src="/images/PIAG Museum Video.mp4" type="video/mp4" />
+      </video>
               </Col>
             </Row>
           </Container>
